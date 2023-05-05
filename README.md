@@ -2,14 +2,12 @@
 
 h2 (overview)
 
-h3 (Description)
+I learned HTMl and CSS which helped me alot to gain practice.
 
+Date: May 4, 2023
 
-{
-  "firstName": "Brayan",
-  "lastName": "Torres",
-  "age": 21
-}
+Languages Used: HTML, CSS, Angular, Javascript, 
+Typescript
 
 Italisized text of out description
 
