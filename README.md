@@ -1,20 +1,32 @@
 # Development-Portfoilo
 
-h2 (overview)
 
-I learned HTMl and CSS which helped me alot to gain practice.
-
-Date: May 4, 2023
-
-Languages Used: HTML, CSS, Angular, Javascript, 
-Typescript
-
-Italisized text of out description
+## Overview
 
 
-institution: Web Development
+### I learned HTMl and CSS which helped me alot to gain practice. Also, I also learned Angular and Typescript for the weeks after.
 
-[title](https://www.example.com)
+
+#### Date: May 4, 2023
+
+
+*Languages* Used: 
+
+-HTML
+
+-CSS
+
+-Angular
+
+-Javascript 
+
+-Typescript
+
+
+*Institution*: Web Development
+
+
+[Link Site](https://brayant911.github.io/Development-Portfoilo/)
 
 
 ![alt text](image.jpg)
